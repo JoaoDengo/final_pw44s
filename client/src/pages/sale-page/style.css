@@ -1,0 +1,17 @@
+.p-dropdown .p-dropdown-label {
+  color: white !important;
+}
+
+.p-dropdown .p-dropdown-trigger {
+  color: white !important;
+}
+
+.p-dropdown-panel {
+  background-color: #1f2937 !important;
+  color: white !important;
+}
+
+.p-dropdown-item {
+  color: white !important;
+  background-color: #1f2937 !important;
+}

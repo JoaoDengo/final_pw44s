@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.p-menuitem-link {
+  color: rgb(205, 205, 205);
+}
+
+.p-menuitem-link:hover,
+.p-menuitem-link:focus,
+.p-menuitem-link:active {
+  color: rgb(0, 0, 0);
+}
+.p-menubar {
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
